@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+}
+div{
+    font-size: 25px;
+    font-weight: bold;
+}
+span {
+    font-size: 25px;
+    font-style: italic;
+}
